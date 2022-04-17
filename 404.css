@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Teko:wght@300&display=swap');
+
+  p {  
+    color:blueviolet;
+    position:absolute;
+    top: 0;
+    left:200px;
+    font-size: 48px;
+}
+
+main {
+    color:aqua;
+    position:absolute;
+    top: 250px;
+    left: 150px;
+    font-size: 32px; 
+}
+
+.main {
+    color:blueviolet;
+    position:absolute;
+    top: 150px;
+    left:200px;
+    font-size: 48px;  
+}
